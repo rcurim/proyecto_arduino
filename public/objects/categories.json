@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "descripcion" : "PELIGRO"
+    },
+    {
+        "id" : 2,
+        "descripcion" : "ALERTA"
+    },
+    {
+        "id" : 3,
+        "descripcion" : "BUENO"
+    }
+]
+
+
+
+

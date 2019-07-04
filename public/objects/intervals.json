@@ -1,0 +1,27 @@
+[
+    {
+        "low": 0.000,
+        "high": 3.000,
+        "category_id": 1
+    },
+    {
+        "low": 3.000,
+        "high": 6.500,
+        "category_id": 2
+    },
+    {
+        "low": 6.500,
+        "high": 8.500,
+        "category_id": 3
+    },
+    {
+        "low": 8.500,
+        "high": 11.000,
+        "category_id": 2
+    },
+    {
+        "low": 11.000,
+        "high": 14.100,
+        "category_id": 1
+    }
+]
